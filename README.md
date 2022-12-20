@@ -17,7 +17,7 @@
 
 Формат подачи аргументов:
 
-`cat [OPTION] [FILE]...`
+`cat [OPTION] [FILES]...`
 
 Ниже перечисленны реализуемые опции:
 
@@ -33,7 +33,7 @@
 
 Формат подачи аргументов:
 
-`grep [option] template [file_name]`
+`grep [option] template [file_names]`
 
 Ниже перечисленны реализуемые опции:
 
